@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Crypto-app-react/static/js/main.c659181f.js",
+    "static/media/btc.png": "/Crypto-app-react/static/media/btc.04101b0b163c035fa57e.png",
+    "index.html": "/Crypto-app-react/index.html",
+    "main.c659181f.js.map": "/Crypto-app-react/static/js/main.c659181f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c659181f.js"
+  ]
+}
